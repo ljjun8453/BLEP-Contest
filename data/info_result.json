@@ -1,0 +1,1213 @@
+[
+  {
+    "x": 128.61838,
+    "y": 35.89361,
+    "address": "복현동",
+    "expect_risk": 5.02217,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61633,
+    "y": 35.88427,
+    "address": "신암동",
+    "expect_risk": 4.98261,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.63644,
+    "y": 35.82613,
+    "address": "지산동",
+    "expect_risk": 4.2051,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54528,
+    "y": 35.81401,
+    "address": "상인동",
+    "expect_risk": 4.39744,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54325,
+    "y": 35.9241,
+    "address": "태전동",
+    "expect_risk": 4.85913,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.64249,
+    "y": 35.94998,
+    "address": "지묘동",
+    "expect_risk": 8.28079,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.56348,
+    "y": 35.87565,
+    "address": "평리동",
+    "expect_risk": 4.99173,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.70497,
+    "y": 35.86688,
+    "address": "신기동",
+    "expect_risk": 5.00017,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.52636,
+    "y": 35.88045,
+    "address": "상리동",
+    "expect_risk": 6.19519,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.52253,
+    "y": 35.81959,
+    "address": "월성동",
+    "expect_risk": 3.97812,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.62684,
+    "y": 35.87197,
+    "address": "신천동",
+    "expect_risk": 4.69669,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.64694,
+    "y": 35.87296,
+    "address": "만촌동",
+    "expect_risk": 5.5946,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59045,
+    "y": 35.85939,
+    "address": "남산동",
+    "expect_risk": 4.6818,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54803,
+    "y": 35.88728,
+    "address": "비산동",
+    "expect_risk": 4.58772,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58116,
+    "y": 35.89036,
+    "address": "침산동",
+    "expect_risk": 5.74824,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71048,
+    "y": 35.83864,
+    "address": "신매동",
+    "expect_risk": 4.09077,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.52681,
+    "y": 35.79933,
+    "address": "대곡동",
+    "expect_risk": 4.38459,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.69219,
+    "y": 35.86435,
+    "address": "율하동",
+    "expect_risk": 5.70296,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.69463,
+    "y": 35.84313,
+    "address": "시지동",
+    "expect_risk": 4.74997,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.64493,
+    "y": 35.92546,
+    "address": "봉무동",
+    "expect_risk": 3.99822,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58462,
+    "y": 35.86768,
+    "address": "동산동",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54033,
+    "y": 35.87448,
+    "address": "이현동",
+    "expect_risk": 4.31764,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59944,
+    "y": 35.8537,
+    "address": "이천동",
+    "expect_risk": 4.69377,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61504,
+    "y": 35.86229,
+    "address": "수성동4가",
+    "expect_risk": 5.41467,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.56426,
+    "y": 35.89266,
+    "address": "노원동3가",
+    "expect_risk": 5.58495,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.5942,
+    "y": 35.9329,
+    "address": "서변동",
+    "expect_risk": 4.14993,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54731,
+    "y": 35.94424,
+    "address": "관음동",
+    "expect_risk": 4.59994,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.56757,
+    "y": 35.95169,
+    "address": "학정동",
+    "expect_risk": 4.8592,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.6174,
+    "y": 35.81338,
+    "address": "파동",
+    "expect_risk": 4.45472,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61541,
+    "y": 35.83211,
+    "address": "상동",
+    "expect_risk": 3.79173,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.51069,
+    "y": 35.85165,
+    "address": "이곡동",
+    "expect_risk": 4.49015,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.64484,
+    "y": 35.88162,
+    "address": "효목동",
+    "expect_risk": 5.50024,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.55058,
+    "y": 35.94582,
+    "address": "읍내동",
+    "expect_risk": 5.29435,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58804,
+    "y": 35.86919,
+    "address": "남성로",
+    "expect_risk": 4.1856,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.53897,
+    "y": 35.85757,
+    "address": "죽전동",
+    "expect_risk": 6.81287,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.56889,
+    "y": 35.84005,
+    "address": "대명동",
+    "expect_risk": 4.35119,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.55817,
+    "y": 35.93725,
+    "address": "동천동",
+    "expect_risk": 5.20045,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54309,
+    "y": 35.84098,
+    "address": "본리동",
+    "expect_risk": 4.46653,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.68934,
+    "y": 35.87624,
+    "address": "용계동",
+    "expect_risk": 4.42855,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.62212,
+    "y": 35.85554,
+    "address": "범어동",
+    "expect_risk": 4.40745,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.49882,
+    "y": 35.85896,
+    "address": "신당동",
+    "expect_risk": 4.4349,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54955,
+    "y": 35.84296,
+    "address": "성당동",
+    "expect_risk": 4.69594,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.53115,
+    "y": 35.8566,
+    "address": "용산동",
+    "expect_risk": 4.69706,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.70467,
+    "y": 35.81573,
+    "address": "욱수동",
+    "expect_risk": 4.37264,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.63714,
+    "y": 35.91126,
+    "address": "불로동",
+    "expect_risk": 4.07662,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.48726,
+    "y": 35.82559,
+    "address": "대천동",
+    "expect_risk": 3.99993,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61507,
+    "y": 35.85262,
+    "address": "수성동2가",
+    "expect_risk": 4.99896,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.5365,
+    "y": 35.89506,
+    "address": "팔달동",
+    "expect_risk": 4.37264,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.67383,
+    "y": 35.82723,
+    "address": "삼덕동",
+    "expect_risk": 5.10254,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61939,
+    "y": 35.85798,
+    "address": "수성동3가",
+    "expect_risk": 5.50012,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.55338,
+    "y": 35.82937,
+    "address": "송현동",
+    "expect_risk": 4.68175,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.50672,
+    "y": 35.83087,
+    "address": "월암동",
+    "expect_risk": 5.21407,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.51434,
+    "y": 35.81403,
+    "address": "유천동",
+    "expect_risk": 4.24838,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.53004,
+    "y": 35.84335,
+    "address": "장기동",
+    "expect_risk": 4.64024,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.51322,
+    "y": 35.83955,
+    "address": "장동",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.52284,
+    "y": 35.81222,
+    "address": "진천동",
+    "expect_risk": 4.11896,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.47399,
+    "y": 35.84132,
+    "address": "파호동",
+    "expect_risk": 5.98897,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.47902,
+    "y": 35.83435,
+    "address": "호림동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.48418,
+    "y": 35.844,
+    "address": "호산동",
+    "expect_risk": 4.3746,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.62282,
+    "y": 35.8027,
+    "address": "가창면",
+    "expect_risk": 5.60872,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.4136,
+    "y": 35.6588,
+    "address": "구지면",
+    "expect_risk": 7.25042,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.41991,
+    "y": 35.77434,
+    "address": "논공읍",
+    "expect_risk": 4.33615,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.49427,
+    "y": 35.87221,
+    "address": "다사읍",
+    "expect_risk": 4.85947,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.46373,
+    "y": 35.7896,
+    "address": "옥포읍",
+    "expect_risk": 6.25023,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.48539,
+    "y": 35.68201,
+    "address": "유가읍",
+    "expect_risk": 4.50058,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.44552,
+    "y": 35.90092,
+    "address": "하빈면",
+    "expect_risk": 5.10254,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.44766,
+    "y": 35.69746,
+    "address": "현풍읍",
+    "expect_risk": 4.36361,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.48966,
+    "y": 35.79783,
+    "address": "화원읍",
+    "expect_risk": 4.79438,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71578,
+    "y": 35.88748,
+    "address": "각산동",
+    "expect_risk": 4.3327,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.66533,
+    "y": 35.89793,
+    "address": "검사동",
+    "expect_risk": 4.11777,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.73606,
+    "y": 35.86965,
+    "address": "괴전동",
+    "expect_risk": 4.1856,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.7451,
+    "y": 35.86786,
+    "address": "대림동",
+    "expect_risk": 6.19519,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.62171,
+    "y": 35.97888,
+    "address": "덕곡동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.66703,
+    "y": 35.92365,
+    "address": "도동",
+    "expect_risk": 7.49799,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71678,
+    "y": 35.99138,
+    "address": "도학동",
+    "expect_risk": 5.16277,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.74146,
+    "y": 35.89291,
+    "address": "동내동",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71719,
+    "y": 35.86487,
+    "address": "동호동",
+    "expect_risk": 5.605,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.67235,
+    "y": 35.963,
+    "address": "미대동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.66762,
+    "y": 35.87714,
+    "address": "방촌동",
+    "expect_risk": 4.83372,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.69461,
+    "y": 35.95447,
+    "address": "백안동",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.69087,
+    "y": 35.89086,
+    "address": "부동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.75308,
+    "y": 35.8695,
+    "address": "사복동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71246,
+    "y": 35.91639,
+    "address": "상매동",
+    "expect_risk": 7.49799,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71049,
+    "y": 35.86477,
+    "address": "서호동",
+    "expect_risk": 3.64632,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.62515,
+    "y": 35.9929,
+    "address": "송정동",
+    "expect_risk": 7.49799,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.74881,
+    "y": 35.88558,
+    "address": "숙천동",
+    "expect_risk": 7.49799,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.7272,
+    "y": 35.87294,
+    "address": "신서동",
+    "expect_risk": 4.00008,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.67947,
+    "y": 35.88337,
+    "address": "신평동",
+    "expect_risk": 3.70984,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.67661,
+    "y": 35.97609,
+    "address": "용수동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.70363,
+    "y": 35.884,
+    "address": "율암동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.65294,
+    "y": 35.90004,
+    "address": "입석동",
+    "expect_risk": 4.74994,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.64093,
+    "y": 36.00178,
+    "address": "중대동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.63828,
+    "y": 35.89339,
+    "address": "지저동",
+    "expect_risk": 3.56776,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71573,
+    "y": 35.9523,
+    "address": "진인동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.62979,
+    "y": 35.91376,
+    "address": "검단동",
+    "expect_risk": 4.56233,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58568,
+    "y": 35.87834,
+    "address": "고성동1가",
+    "expect_risk": 5.53952,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58213,
+    "y": 35.88004,
+    "address": "고성동2가",
+    "expect_risk": 4.18212,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58761,
+    "y": 35.88161,
+    "address": "고성동3가",
+    "expect_risk": 3.70984,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.56604,
+    "y": 35.93889,
+    "address": "구암동",
+    "expect_risk": 5.12096,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.57929,
+    "y": 35.95158,
+    "address": "국우동",
+    "expect_risk": 5.90007,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.52696,
+    "y": 35.91122,
+    "address": "금호동",
+    "expect_risk": 7.02507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.56054,
+    "y": 35.90438,
+    "address": "노곡동",
+    "expect_risk": 5.09377,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.57947,
+    "y": 35.88817,
+    "address": "노원동1가",
+    "expect_risk": 3.81849,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.57446,
+    "y": 35.89097,
+    "address": "노원동2가",
+    "expect_risk": 5.98787,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60581,
+    "y": 35.88215,
+    "address": "대현동",
+    "expect_risk": 4.43721,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60891,
+    "y": 35.92544,
+    "address": "동변동",
+    "expect_risk": 4.1856,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.5671,
+    "y": 35.96715,
+    "address": "동호동",
+    "expect_risk": 4.01834,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.53931,
+    "y": 35.90721,
+    "address": "매천동",
+    "expect_risk": 4.89971,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.51231,
+    "y": 35.89965,
+    "address": "사수동",
+    "expect_risk": 7.02507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59467,
+    "y": 35.89263,
+    "address": "산격동",
+    "expect_risk": 4.86028,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61526,
+    "y": 35.95674,
+    "address": "연경동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.57564,
+    "y": 35.91446,
+    "address": "조야동",
+    "expect_risk": 4.1856,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60426,
+    "y": 35.87561,
+    "address": "칠성동1가",
+    "expect_risk": 4.14375,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59783,
+    "y": 35.87797,
+    "address": "칠성동2가",
+    "expect_risk": 3.60779,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.56074,
+    "y": 35.86069,
+    "address": "내당동",
+    "expect_risk": 5.19127,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.57879,
+    "y": 35.88058,
+    "address": "원대동1가",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.5763,
+    "y": 35.88465,
+    "address": "원대동3가",
+    "expect_risk": 4.53308,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.53848,
+    "y": 35.86348,
+    "address": "중리동",
+    "expect_risk": 4.33472,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.68562,
+    "y": 35.85348,
+    "address": "가천동",
+    "expect_risk": 5.53952,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.67038,
+    "y": 35.86244,
+    "address": "고모동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.69644,
+    "y": 35.83147,
+    "address": "노변동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.67759,
+    "y": 35.81031,
+    "address": "대흥동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.62066,
+    "y": 35.82943,
+    "address": "두산동",
+    "expect_risk": 5.16969,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.70915,
+    "y": 35.85038,
+    "address": "매호동",
+    "expect_risk": 3.66148,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.64596,
+    "y": 35.81788,
+    "address": "범물동",
+    "expect_risk": 5.06871,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.71887,
+    "y": 35.83978,
+    "address": "사월동",
+    "expect_risk": 4.1856,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.72132,
+    "y": 35.84898,
+    "address": "성동",
+    "expect_risk": 3.70984,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61059,
+    "y": 35.85736,
+    "address": "수성동1가",
+    "expect_risk": 5.29996,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.67356,
+    "y": 35.84386,
+    "address": "연호동",
+    "expect_risk": 3.96792,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.65652,
+    "y": 35.83914,
+    "address": "이천동",
+    "expect_risk": 5.61343,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61508,
+    "y": 35.84739,
+    "address": "중동",
+    "expect_risk": 3.91314,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.63815,
+    "y": 35.84399,
+    "address": "황금동",
+    "expect_risk": 4.29276,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58658,
+    "y": 35.86882,
+    "address": "계산동1가",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58804,
+    "y": 35.86754,
+    "address": "계산동2가",
+    "expect_risk": 5.98314,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.5983,
+    "y": 35.86878,
+    "address": "공평동",
+    "expect_risk": 4.16693,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59966,
+    "y": 35.87325,
+    "address": "교동",
+    "expect_risk": 4.1856,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59389,
+    "y": 35.86893,
+    "address": "남일동",
+    "expect_risk": 5.16277,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58014,
+    "y": 35.87687,
+    "address": "달성동",
+    "expect_risk": 5.53952,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60438,
+    "y": 35.86168,
+    "address": "대봉동",
+    "expect_risk": 5.38626,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.57635,
+    "y": 35.8656,
+    "address": "대신동",
+    "expect_risk": 3.50392,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59369,
+    "y": 35.86588,
+    "address": "덕산동",
+    "expect_risk": 6.32259,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59994,
+    "y": 35.87153,
+    "address": "동문동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59566,
+    "y": 35.86993,
+    "address": "동성로2가",
+    "expect_risk": 4.70847,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59431,
+    "y": 35.86734,
+    "address": "동성로3가",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60397,
+    "y": 35.87195,
+    "address": "동인동1가",
+    "expect_risk": 4.1856,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60444,
+    "y": 35.8687,
+    "address": "동인동2가",
+    "expect_risk": 5.1215,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60964,
+    "y": 35.87179,
+    "address": "동인동3가",
+    "expect_risk": 4.78035,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.61201,
+    "y": 35.86741,
+    "address": "동인동4가",
+    "expect_risk": 4.06394,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59278,
+    "y": 35.86947,
+    "address": "동일동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59739,
+    "y": 35.87114,
+    "address": "문화동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59797,
+    "y": 35.86192,
+    "address": "봉산동",
+    "expect_risk": 6.58864,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59487,
+    "y": 35.87431,
+    "address": "북성로1가",
+    "expect_risk": 5.45239,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59845,
+    "y": 35.86574,
+    "address": "삼덕동1가",
+    "expect_risk": 3.04182,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60324,
+    "y": 35.86506,
+    "address": "삼덕동2가",
+    "expect_risk": 4.16074,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.60779,
+    "y": 35.86397,
+    "address": "삼덕동3가",
+    "expect_risk": 6.32259,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59019,
+    "y": 35.87034,
+    "address": "상서동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58918,
+    "y": 35.8712,
+    "address": "서문로1가",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58657,
+    "y": 35.87048,
+    "address": "서문로2가",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58729,
+    "y": 35.87216,
+    "address": "서성로1가",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58564,
+    "y": 35.87469,
+    "address": "수창동",
+    "expect_risk": 3.06496,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58248,
+    "y": 35.87224,
+    "address": "시장북로",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58398,
+    "y": 35.87294,
+    "address": "인교동",
+    "expect_risk": 10.45769,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59053,
+    "y": 35.86869,
+    "address": "장관동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59176,
+    "y": 35.8701,
+    "address": "종로1가",
+    "expect_risk": 5.16277,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59247,
+    "y": 35.87545,
+    "address": "태평로2가",
+    "expect_risk": 4.50257,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.58662,
+    "y": 35.8766,
+    "address": "태평로3가",
+    "expect_risk": 5.45239,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59241,
+    "y": 35.87206,
+    "address": "포정동",
+    "expect_risk": 2.76507,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.49881,
+    "y": 35.8388,
+    "address": "갈산동",
+    "expect_risk": 4.85713,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.59791,
+    "y": 35.84557,
+    "address": "봉덕동",
+    "expect_risk": 5.99563,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54217,
+    "y": 35.85102,
+    "address": "감삼동",
+    "expect_risk": 4.25525,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.53218,
+    "y": 35.80748,
+    "address": "도원동",
+    "expect_risk": 4.0029,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.5554,
+    "y": 35.85372,
+    "address": "두류동",
+    "expect_risk": 6.42324,
+    "openweather": "맑음"
+  },
+  {
+    "x": 128.54106,
+    "y": 35.83442,
+    "address": "본동",
+    "expect_risk": 5.22219,
+    "openweather": "맑음"
+  }
+]
